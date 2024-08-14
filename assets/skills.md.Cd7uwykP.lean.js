@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as e,a2 as t}from"./chunks/framework.CEgrwLex.js";const m=JSON.parse('{"title":"Skills","description":"","frontmatter":{"title":"Skills"},"headers":[],"relativePath":"skills.md","filePath":"skills.md"}'),s={name:"skills.md"},a=t("",3),o=[a];function r(n,_,c,d,p,h){return e(),i("div",null,o)}const S=l(s,[["render",r]]);export{m as __pageData,S as default};
